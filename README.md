@@ -1,4 +1,4 @@
-# Chat with Database
+# Talk2DB
 
 A modern chat application that allows you to interact with your SQL database using natural language. Powered by Google's Gemini AI, this application provides an intuitive interface to query your database without writing SQL.
 
