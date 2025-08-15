@@ -12,6 +12,12 @@ A modern chat application that allows you to interact with your SQL database usi
 - 📱 **Responsive Design**: Works perfectly on desktop and mobile devices
 - ⚡ **Real-time Status**: Shows connection status for both AI and database
 
+## Screenshots
+
+  <img width="1919" height="929" alt="Screenshot 2025-08-15 143956" src="https://github.com/user-attachments/assets/817db480-6651-4974-944c-f51981f72e02" />
+  <img width="1919" height="924" alt="Screenshot 2025-08-15 144011" src="https://github.com/user-attachments/assets/b21d20f9-417d-4a1e-8138-08185531158c" />
+
+
 ## Tech Stack
 
 - **Frontend**: Angular 19 with TypeScript
