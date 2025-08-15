@@ -1,0 +1,49 @@
+# Node.js dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+.cache/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Database / backup files
+*.sql
+*.sqlite
+*.db
+*.bak
+
+# Batch / shell script execution logs
+*.bat~
+*.sh~
+
+
+# Angular cache
+.angular/
